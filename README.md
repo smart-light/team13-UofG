@@ -18,7 +18,7 @@ The video of the final operation please link below or youtube channel.
 
 ## QT GUI 
 
-<img src= "image/SMART_LIGHT.jpg" width="60" height="60">
+<img src= "image/QT_GUI.jpg" width="512" height="720">
 
 ## Block Diagram
 
