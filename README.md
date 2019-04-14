@@ -1,4 +1,4 @@
-[<img src= "image/twitter.png" width="40" height="40">]()            [<img src= "image/youtube.jpg" width="40" height="40">]()             [<img src= "image/instagram.jpg" width="40" height="40">](https://www.instagram.com/smartlight13/)
+[<img src= "image/twitter.png" width="40" height="40">]()            [<img src= "image/youtube.jpg" width="40" height="40">]()             [<img src= "image/instagram.jpg" width="40" height="40">](https://www.instagram.com/smartrgblight/)
 
 # SMART LIGHT
 _A QT GUI based adaptive light application._
