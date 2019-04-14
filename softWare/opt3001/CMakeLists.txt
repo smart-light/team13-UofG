@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.8.9)
+set (CMAKE_CXX_STANDARD 11)
+project (optTest)
+add_executable(optTest optTest.cpp opt.cpp)
+find_package (Threads REQUIRED)
+target_link_libraries (optTest ${CMAKE_THREAD_LIBS_INIT} wiringPi)
