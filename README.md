@@ -1,3 +1,4 @@
+![youtube](https://user-images.githubusercontent.com/47054982/56095274-df0fab80-5ed2-11e9-876a-490834a6ed12.png)
 # SMART LIGHT
 _A QT GUI based adaptive light application._
 ## Team Members
