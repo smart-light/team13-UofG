@@ -23,5 +23,5 @@ The window to control the RGB is shown below. Tow mode of operation could be cho
 <img src= "image/QT_GUI.jpg" width="325" height="425">
 
 ## Software Block Diagram
-Software have two thread as indicated below. One thread is qwt knob and slider control, another thread is opt3001 adaptive threshold limiting the maximum PWM. It means that while knobs are being adjusted, the maximum light intensity could change at the same time- according to the environment light intensity. 
+Software have two thread as indicated below. One thread is qwt knob and slider control, another thread is opt3001 adaptive threshold of limiting the maximum PWM. It means that while knobs are being adjusted, the maximum light intensity could change at the same time- according to the environment light intensity. 
 <img src= "image/BlockDiagram.JPG" width="700" height="425">
