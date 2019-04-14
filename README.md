@@ -1,3 +1,4 @@
+<img src= "image/twitter.png" width="40" height="40"> <img src= "image/youtube.png" width="40" height="40"><img src= "image/instagram.jpg" width="40" height="40">
 
 # SMART LIGHT
 _A QT GUI based adaptive light application._
