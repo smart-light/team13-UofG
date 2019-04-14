@@ -12,9 +12,9 @@ The purpose of the project is to design a smart light that could be interesting 
 Any idea, improvement or problem you want to share with us could click the social media image above to interact with us. All relavent software code and hardware files are shared in repository of this github. More details about the project is introduced in wiki, please feel free to have a look. 
 
 ## Final Operation
-The video of the final operation please link below or youtube channel.
+The video of the final operation please click link below or youtube channel.
 
-[<img src= "image/SMART_LIGHT.jpg" width="60" height="60">]() 
+[<img src= "image/Overview.jpg" width="325" height="425">](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ?view_as=subscriber) 
 
 ## QT GUI 
 The window to control the RGB is shown below. Tow mode of operation could be chosen with silder at left and right. First mode at left is to disable the ambient sensor only working with knob to control RGB. Second mode at right is to enable the ambient sensor which set treshold limiting the maximum intensity the LED could go. The treshold is adaptive to the environment light intensity and RGB could be controlled at the same time below the treshold. 
