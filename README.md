@@ -22,5 +22,6 @@ when environment is bright, smart light is supposed to be dark so that saving po
 The window to control the RGB is shown below. Tow mode of operation could be chosen with silder at left and right. First mode at left is to disable the ambient sensor only working with knob to control RGB. Second mode at right is to enable the ambient sensor which set treshold limiting the maximum intensity the LED could go. The treshold is adaptive to the environment light intensity and RGB could be controlled at the same time below the treshold. 
 <img src= "image/QT_GUI.jpg" width="325" height="425">
 
-## Block Diagram
+## Software Block Diagram
+Software have two thread as indicated below. One thread is qwt knob and slider control, another thread is opt3001 adaptive threshold limiting the maximum PWM. It means that while knobs are being adjusted, the maximum light intensity could change at the same time- according to the environment light intensity. 
 <img src= "image/BlockDiagram.JPG" width="700" height="425">
