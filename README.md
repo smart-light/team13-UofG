@@ -23,4 +23,4 @@ The window to control the RGB is shown below. Tow mode of operation could be cho
 <img src= "image/QT_GUI.jpg" width="325" height="425">
 
 ## Block Diagram
-
+<img src= "image/BlockDiagram.JPG" width="700" height="425">
