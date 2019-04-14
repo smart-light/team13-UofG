@@ -18,7 +18,7 @@ The video of the final operation please link below or youtube channel.
 
 ## QT GUI 
 
-<img src= "image/QT_GUI.jpg" width="512" height="720">
+<img src= "image/QT_GUI.jpg" width="256" height="425">
 
 ## Block Diagram
 
