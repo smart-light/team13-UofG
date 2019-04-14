@@ -12,7 +12,7 @@ The purpose of the project is to design a smart light that could be interesting 
 Any idea, improvement or problem you want to share with us could click the social media image above to interact with us. All relavent software code and hardware files are shared in repository of this github. More details about the project is introduced in wiki, please feel free to have a look. 
 
 ## Final Operation
-The video of the final operation please click image link below or youtube channel.
+The video of the final operation please click [link](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ?view_as=subscriber), image below or youtube channel.
 
 when environment is bright, smart light is supposed to be dark so that saving power. When environment is dark, smart light is designed to be bright so that offering light source.
 
