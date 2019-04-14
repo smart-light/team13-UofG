@@ -13,6 +13,7 @@ Any idea, improvement or problem you want to share with us could click the socia
 
 ## Final Operation
 The video of the final operation please click image link below or youtube channel.
+when environment is bright, smart light is supposed to be dark so that saving power. When environment is dark, smart light is designed to be bright so that offering light source.
 
 [<img src= "image/Overview.jpg" width="325" height="425">](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ?view_as=subscriber) 
 
