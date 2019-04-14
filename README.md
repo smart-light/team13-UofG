@@ -19,3 +19,6 @@ The video of the final operation please link below or youtube channel.
 ## QT GUI 
 
 <img src= "image/SMART_LIGHT.jpg" width="60" height="60">
+
+## Block Diagram
+
