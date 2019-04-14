@@ -1,4 +1,4 @@
-[<img src= "image/SMART_LIGHT.jpg" width="60" height="60">]()           [<img src= "image/twitter.png" width="40" height="40">]()            [<img src= "image/youtube.jpg" width="40" height="40">](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ/)             [<img src= "image/instagram.jpg" width="40" height="40">](https://www.instagram.com/smart_rgb_light/)
+[<img src= "image/SMART_LIGHT.jpg" width="60" height="60">]()           [<img src= "image/twitter.png" width="40" height="40">]()            [<img src= "image/youtube.jpg" width="40" height="40">]()             [<img src= "image/instagram.jpg" width="40" height="40">](https://www.instagram.com/smart_rgb_light/)
 
 # SMART LIGHT
 _A QT GUI based adaptive light application._
@@ -17,7 +17,7 @@ The video of the final operation please link below or youtube channel.
 [<img src= "image/SMART_LIGHT.jpg" width="60" height="60">]() 
 
 ## QT GUI 
-
+The window to control the RGB is shown below. Tow mode of operation could be chosen with silder at left and right. First mode at left is to disable the ambient sensor only working with knob to control RGB. Second mode at right is to enable the ambient sensor which set treshold limiting the maximum intensity the LED could go. The treshold is adaptive to the environment light intensity and RGB could be controlled at the same time below the treshold. 
 <img src= "image/QT_GUI.jpg" width="325" height="425">
 
 ## Block Diagram
