@@ -86,5 +86,4 @@ Have fun!(PCB is designed as purpose of powering RPi but it draws large current 
 
 ## Future Work
 - Power rate of the LED could be designed greater so the outcome of the design could be fancy
-- Overview of the LED need to be improved for looking better
 - More sensors could be applied for variable application. This could be a platform to be built on.
