@@ -16,7 +16,7 @@ The video of the final operation please click [link](https://www.youtube.com/cha
 
 when environment is bright, smart light is supposed to be dark so that saving power. When environment is dark, smart light is designed to be bright so that offering light source.
 
-[<img src= "image/Overview.jpg" width="325" height="425">](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ?view_as=subscriber) 
+[<img src= "image/IMG_9030.JPG" width="525" height="425">](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ?view_as=subscriber) 
 
 ## QT GUI 
 The window to control the RGB is shown below. Tow mode of operation could be chosen with silder at left and right. First mode at left is to disable the ambient sensor only working with knob to control RGB. Second mode at right is to enable the ambient sensor which set treshold limiting the maximum intensity the LED could go. The treshold is adaptive to the environment light intensity and RGB could be controlled at the same time below the treshold. 
