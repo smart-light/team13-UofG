@@ -27,13 +27,17 @@ Software have two thread as indicated below. One thread is qwt knob and slider c
 <img src= "image/BlockDiagram.JPG" width="700" height="425">
 
 ## How to Try With Our Code
-- BOM is offered and PCB is designed as files in hardware zip
+- BOM is offered and PCB is designed as files in hardware zip(addr pin of opt3001 goes to 5v on RPi to setup LSB)
 - Just git files in sofware/main then 
+
+
   qmake
+  
   make
+  
   sudo ./Main
   
-  Have fun!
+  Have fun!(PCB is designed as purpose of powering RPi but it draws large current so that in PCB design please ignore the pin for powering RPi and use that ground pin for sinals reference connected to groud of RPi)
 
 ## Future Work
 - Power rate of the LED could be designed greater so the outcome of the design could be fancy
