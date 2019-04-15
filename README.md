@@ -1,4 +1,4 @@
-[<img src= "image/SMART_LIGHT.jpg" width="60" height="60">]()           [<img src= "image/twitter.png" width="40" height="40">](https://twitter.com/RgbSmart)            [<img src= "image/youtube.jpg" width="40" height="40">](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ?view_as=subscriber)             [<img src= "image/instagram.jpg" width="40" height="40">](https://www.instagram.com/smart_rgb_light/)
+[<img src= "image/logo.png" width="128" height="128">]()           [<img src= "image/twitter.png" width="40" height="40">](https://twitter.com/RgbSmart)            [<img src= "image/youtube.jpg" width="40" height="40">](https://www.youtube.com/channel/UCd6fxMEmMy2eHsSU_8GLoLQ?view_as=subscriber)             [<img src= "image/instagram.jpg" width="40" height="40">](https://www.instagram.com/smart_rgb_light/)
 
 # SMART LIGHT
 _A QT GUI based adaptive light application._
