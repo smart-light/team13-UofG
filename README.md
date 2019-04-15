@@ -28,6 +28,32 @@ Software have two thread as indicated below. One thread is qwt knob and slider c
 
 ## How to Try With Our Code
 - Setup enviroment
+
+If no git installed: 
+
+```
+
+sudo apt-get install git-core
+
+```
+
+Git WiringPi:
+
+```
+
+cd 
+git clone git://git.drogon.net/wiringPi
+
+```
+
+Then build WiringPi:
+
+```
+
+cd ~/wiringPi
+./build
+
+```
 Install the QT5 and Qwt development packages:
 
 ```
@@ -40,19 +66,23 @@ To clone the git repository:
 
 ```
 
-git clone https://github.com/smart-light/team13-UofG/software/Main
+git clone https://github.com/smart-light/team13-UofG/softWare/Main
 
 ```
-  qmake
+
+Then Try with this:
+
+```
+cd Main/
+qmake
+make
+sudo ./Main
   
-  make
-  
-  sudo ./Main
-  
-  
+```
+
 - BOM is offered and PCB is designed as files in hardware zip(addr pin of opt3001 goes to 5v on RPi to setup LSB) 
 
-  Have fun!(PCB is designed as purpose of powering RPi but it draws large current so that in PCB design please ignore the pin for powering RPi and use that ground pin for sinals reference connected to groud of RPi)
+Have fun!(PCB is designed as purpose of powering RPi but it draws large current so that in PCB design please ignore the pin for powering RPi and use that ground pin for sinals reference connected to groud of RPi)
 
 ## Future Work
 - Power rate of the LED could be designed greater so the outcome of the design could be fancy
