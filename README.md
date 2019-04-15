@@ -27,16 +27,31 @@ Software have two thread as indicated below. One thread is qwt knob and slider c
 <img src= "image/BlockDiagram.JPG" width="700" height="425">
 
 ## How to Try With Our Code
-- BOM is offered and PCB is designed as files in hardware zip(addr pin of opt3001 goes to 5v on RPi to setup LSB)
-- Just git files in sofware/main then 
+- Setup enviroment
+Install the QT5 and Qwt development packages:
 
+```
 
+  apt-get install qtdeclarative5-dev-tools
+  apt-get install libqwt-qt5-dev
+  
+```
+To clone the git repository:
+
+```
+
+git clone https://github.com/smart-light/team13-UofG/software/Main
+
+```
   qmake
   
   make
   
   sudo ./Main
   
+  
+- BOM is offered and PCB is designed as files in hardware zip(addr pin of opt3001 goes to 5v on RPi to setup LSB) 
+
   Have fun!(PCB is designed as purpose of powering RPi but it draws large current so that in PCB design please ignore the pin for powering RPi and use that ground pin for sinals reference connected to groud of RPi)
 
 ## Future Work
